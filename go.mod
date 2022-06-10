@@ -1,3 +1,3 @@
-module git.ellucian.com/scm/hcp/report-clusters
+module github.com/sriddell/k8s-lib
 
 go 1.16
