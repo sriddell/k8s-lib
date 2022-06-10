@@ -9,9 +9,9 @@ import (
 	"time"
 )
 
-type config struct {
-	Servers []RancherServer `json:"rancherServers"`
-}
+// type config struct {
+// 	Servers []RancherServer `json:"rancherServers"`
+// }
 
 type RancherServer struct {
 	RancherUrl string `json:"rancherUrl"`
